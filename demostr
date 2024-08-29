@@ -1,0 +1,13 @@
+
+
+data = "<<< spam and ham >>>"
+result = data.strip("<> ")
+
+print(data)
+
+lst = result.split()
+print(lst)
+
+strA = "python is very powerful"
+print(len(strA))
+
